@@ -10,7 +10,7 @@ namespace AutomobileLibrary.BusinessObject
     {
         public int CarID { get; set; }
         public string CarName { get; set; }
-        public string Manufacture { get; set; }
+        public string Manufacturer { get; set; }
         public decimal Price { get; set; }
         public int ReleseYear { get; set; }
 
